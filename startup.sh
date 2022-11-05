@@ -69,7 +69,6 @@ case $agreeTo in
     cd ..
     echo "Running C2 server with locally hosted web app GUI...";
     echo "Navigate to http://127.0.0.1:5000 and set up your user to get started.";
-    python3 run.py
     exit
     ;;
 esac
